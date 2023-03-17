@@ -2,7 +2,7 @@
 
 /**
  * main - print a string followed by a new line
- * return - 0 (sucess)
+ * Return: 1 (sucess)
  */
 int main(void)
 {
