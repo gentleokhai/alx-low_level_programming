@@ -1,1 +1,1 @@
-My directory on debugging
+Dealing with debugging
