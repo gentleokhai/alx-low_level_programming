@@ -1,1 +1,1 @@
-This is a repository that is for low level programs
+another pointers, arrays and strings
